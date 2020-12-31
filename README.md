@@ -1,8 +1,5 @@
 # CS 100 Programming Project
 
-FALL 2019
-Adhikar Chhibber. 862091337
-Swastyak Gaur. 862063974
 
 # Introduction
 
